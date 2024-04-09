@@ -1,0 +1,20 @@
+.profile-container {
+    width: 145px;
+    height: 145px;
+    overflow: hidden;
+    border: 2px ridge #00bc8b;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.profile-container img {
+    width: 145px;
+    /* height: 150px; */
+}
+
+.device:hover {
+    background-color: #f8f9fa;
+}

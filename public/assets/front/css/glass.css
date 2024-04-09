@@ -1,0 +1,31 @@
+.modal {
+  background: #7abcff;
+}
+
+.modal-body {
+  background: #7abcff;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.modal-body p {
+  color: #000;
+}
+
+.container1 {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 3em;
+  position: absolute;
+  top: 0;
+  left: 100;
+  z-index: 1;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  border: solid 2px transparent;
+  background-clip: padding-box;
+  -webkit-box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+          box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+}
+/*# sourceMappingURL=glass.css.map */
