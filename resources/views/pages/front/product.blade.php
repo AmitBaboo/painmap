@@ -2,7 +2,7 @@
 @section('content')
     <style>
         @font-face {
-            font-family: CeraPro;
+            font-family: Montserrat;
         }
 
     </style>
@@ -110,7 +110,7 @@
     <script src="{{ asset('assets/front/js/jquery-3.1.1.min.js') }}"></script>
     <script>
         $('.bodytext p').removeAttr('style');
-        // $(".bodytext").css({"color": "gray", "font-size": "16px", "font-family":"CeraPro;line-height:  1.5em;"});
+        // $(".bodytext").css({"color": "gray", "font-size": "16px", "font-family":"Montserrat;line-height:  1.5em;"});
 
     </script>
 

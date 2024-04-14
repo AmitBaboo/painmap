@@ -22,7 +22,7 @@
 
 </head>
 
-<body class="hold-transition login-page" style="font-family:CeraPro;">
+<body class="hold-transition login-page" style= "font-family: Montserrat, sans-serif;">
   <div class="login-box">
     <!-- <div class="login-logo">
       <a href="{{asset('assets/index2.html')}}"><b>Pain</b>MAP</a>

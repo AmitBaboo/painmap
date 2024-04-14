@@ -79,9 +79,13 @@
 
     <link rel="stylesheet" href="{{ asset('assets') }}/plugins/toastr/toastr.min.css">
 
+<!-- Change font family -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 
     <style>
-        /* @font-face { font-family: CeraPro-Regular; src: url('{{ asset('assets/front/fonts/CeraPro-Regular.woff') }}'); }  */
         .services-section .services-box {
             padding-right: 20px;
             padding-left: 20px;
@@ -105,7 +109,7 @@
     <link href="{{ asset('assets/back/fonts.css') }}" rel='stylesheet' type='text/css'>
     <style>
         @font-face {
-            font-family: CeraPro !important;
+            font-family: "Montserrat", sans-serif;
         }
 
         h1,
@@ -118,12 +122,12 @@
         b,
         div,
         span {
-            font-family: CeraPro !important;
+            font-family: "Montserrat", sans-serif;
         }
     </style>
 </head>
 
-<body style="font-family:CeraPro; word-break:keep-all !important;" id="body">
+<body style="font-family:Montserrat; word-break:keep-all !important;" id="body">
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NP82FV3" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) .-->

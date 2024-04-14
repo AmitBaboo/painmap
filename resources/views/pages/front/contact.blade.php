@@ -3,7 +3,7 @@
 <link href="{{ asset('assets/back/fonts.css') }}" rel='stylesheet' type='text/css'>
 <style>
     @font-face {
-        font-family: CeraPro !important;
+        font-family: Montserrat;
     }
 
     h1,
@@ -13,7 +13,7 @@
     h5,
     h6,
     p {
-        font-family: CeraPro !important;
+        font-family: "Montserrat", sans-serif;
     }
 </style>
 <section class="content contact-pg clearfix">

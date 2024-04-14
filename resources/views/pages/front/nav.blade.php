@@ -1,6 +1,6 @@
 <!-- Header Start -->
 <style>
-    /* @font-face { font-family: CeraPro-Bold; src: url('{{ asset('assets/front/fonts/CeraPro-Bold.woff') }}'); }  */
+   
     .inner-pg {
         padding-top: 51px;
         background-color: #f2f2f2;
@@ -28,7 +28,7 @@
         color: gray;
         font-size: 16px;
         line-height: 1.5em;
-        font-family: CeraPro;
+        font-family: "Montserrat", sans-serif;
         border: none;
         background: white !important
     }
@@ -37,7 +37,7 @@
         color: gray;
         font-size: 16px;
         line-height: 1.5em;
-        font-family: CeraPro;
+        font-family: "Montserrat", sans-serif;
         border: none;
         background: white !important
     }

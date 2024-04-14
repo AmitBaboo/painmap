@@ -208,7 +208,8 @@ body {
 .section-title h4,
 .section-title h5,
 .section-title h6 {
-    font-family: "latobold", cursive;
+    /* font-family: "latobold", cursive; */
+    font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
     margin: 0;
 }
@@ -405,7 +406,7 @@ a.view-all:hover {
 
 .login-modal .modal-dialog .modal-content .form-group label {
     color: #969696;
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     font-size: 10px;
     position: absolute;
     top: 6px;
@@ -523,7 +524,7 @@ a.view-all:hover {
 }
 
 .breadcrumb-title .breadcrumb-right h5 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     font-size: 24px;
     line-height: 24px;
     color: #fff;
@@ -596,7 +597,7 @@ a.view-all:hover {
 }
 
 .banner h4 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     font-size: 33px;
     line-height: 38px;
     color: #fff;
@@ -675,7 +676,7 @@ a.view-all:hover {
     color: #ffffff;
     text-transform: uppercase;
     text-align: center;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 900;
     position: relative;
 }
@@ -819,7 +820,7 @@ a.view-all:hover {
     width: 100%;
     height: 65px;
     object-fit: cover;
-    font-family: "object-fit: cover";
+    font-family: "Montserrat", sans-serif;
 }
 
 .blog-sidebar-widget .recent-posts .post-block a.image {
@@ -1522,7 +1523,7 @@ td .ui-state-hover {
 }
 
 .footer .f-widget h6 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     line-height: 24px;
     color: #fff;
@@ -1580,7 +1581,7 @@ td .ui-state-hover {
     font-size: 16px;
     line-height: 20px;
     font-weight: 700;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     display: block;
     margin: 0 0 5px;
 }
@@ -1873,7 +1874,7 @@ td .ui-state-hover {
     text-transform: uppercase;
     border-bottom-color: rgba(0, 0, 0, 0.1);
     color: #333;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     display: block;
     text-decoration: none;
@@ -1884,7 +1885,7 @@ td .ui-state-hover {
 }
 
 .h-bottom .navbar ul li.dropdown li .yamm-content li a {
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 13px;
     line-height: 14px;
     font-weight: 400;
@@ -1932,7 +1933,7 @@ td .ui-state-hover {
 }
 
 .h-bottom .cart-right .phone-btn {
-    font-family: "OpenSansRegular", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     color: #ffffff;
     border-radius: 20px;
@@ -1998,7 +1999,7 @@ td .ui-state-hover {
     left: -12px;
     font-weight: 600;
     padding-right: 0;
-    font-family: sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 .h-bottom .cart-right .header-cart .headercartbtn:hover i {
@@ -2084,7 +2085,7 @@ td .ui-state-hover {
     .cart-list
     .mini-cart-detail
     a {
-    font-family: "Poppins", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 10px;
     line-height: 15px;
@@ -2424,7 +2425,7 @@ td .ui-state-hover {
 .services-section .services-box .grid-box-inner a h3 {
     margin: 0;
     padding: 0;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     line-height: 30px;
     font-weight: 500;
@@ -2438,7 +2439,7 @@ td .ui-state-hover {
     font-weight: 400;
     color: #ffffff;
     font-style: normal;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 /*========== Who We Are Start ==========*/
@@ -2558,7 +2559,7 @@ td .ui-state-hover {
 }
 
 .hospital-services .service-top .service-block .block-detail h6 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     line-height: 14px;
     color: #1b1b1b;
@@ -2616,7 +2617,7 @@ td .ui-state-hover {
 }
 
 .emergency-services .emergency-detail .service-block h6 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     line-height: 22px;
     margin: 0 0 15px;
@@ -2673,7 +2674,7 @@ td .ui-state-hover {
 .health-services .health-block ul li {
     margin: 0 0 25px;
     padding: 0;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     line-height: 14px;
     color: #ffffff;
@@ -2696,7 +2697,7 @@ td .ui-state-hover {
 }
 
 .health-services .health-block h5 {
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 30px;
     line-height: 50px;
     color: #ffffff;
@@ -2854,7 +2855,7 @@ td .ui-state-hover {
 /* Our Work Profile End */
 /* Plastic Surgery Start */
 .plastic-surgery h5 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 26px;
@@ -2891,7 +2892,7 @@ td .ui-state-hover {
 }
 
 .medical-health-news .section-title h4 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 28px;
     line-height: 34px;
     color: #1b1b1b;
@@ -2924,7 +2925,7 @@ td .ui-state-hover {
     bottom: 0;
     text-align: center;
     color: #fff;
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
 }
 
@@ -2979,7 +2980,7 @@ td .ui-state-hover {
 }
 
 .medical-health-news .medical-health-blocks .block-desc h6 {
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 22px;
     margin: 0;
@@ -3031,7 +3032,7 @@ td .ui-state-hover {
 }
 
 .map-address-location .right-side a.address-block .block-detail h6 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 16px;
     color: #fff;
@@ -3096,7 +3097,7 @@ td .ui-state-hover {
     font-size: 18px;
     line-height: 18px;
     margin: 0 0 10px;
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
 }
 
@@ -3293,7 +3294,7 @@ td .ui-state-hover {
 }
 
 .human-body-parts .body-parts-block h6 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     text-transform: capitalize;
     font-size: 18px;
     line-height: 18px;
@@ -3335,7 +3336,7 @@ td .ui-state-hover {
 }
 
 .service-detail-block h4 {
-    font-family: "Lato", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 24px;
     line-height: 30px;
     margin: 0 0 10px;
@@ -3541,7 +3542,7 @@ td .ui-state-hover {
 
 .inner-banner h4 {
     text-transform: none;
-    font-family: "latolight";
+    font-family: "Montserrat", sans-serif;
 }
 
 /* Phisician Md Start */
@@ -3558,7 +3559,7 @@ td .ui-state-hover {
 }
 
 .phisician-md .phisician-left h5 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 24px;
     line-height: 24px;
     color: #333333;
@@ -3567,7 +3568,7 @@ td .ui-state-hover {
 }
 
 .phisician-md .phisician-left h5 span {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     text-transform: capitalize;
     color: #535353;
 }
@@ -3607,7 +3608,7 @@ td .ui-state-hover {
 .phisician-md .phisician-right .join-our-team .btn {
     font-size: 13px;
     font-weight: 700;
-    font-family: "OpenSansBold";
+    font-family: "Montserrat", sans-serif;
     padding: 13px 36px 14px 34px;
 }
 
@@ -3636,7 +3637,7 @@ td .ui-state-hover {
 }
 
 .clinic-staff-carousel .staff-detail h6 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     text-transform: capitalize;
     font-size: 18px;
     line-height: 25px;
@@ -3645,7 +3646,7 @@ td .ui-state-hover {
 
 .clinic-staff-carousel .staff-detail h6 span {
     display: block;
-    font-family: "latolight";
+    font-family: "Montserrat", sans-serif;
 }
 
 .clinic-staff-carousel .staff-detail p {
@@ -3679,7 +3680,7 @@ td .ui-state-hover {
 }
 
 .nurse-practice .nurse-detail h6 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     text-transform: capitalize;
     color: #333333;
     font-size: 18px;
@@ -3687,7 +3688,8 @@ td .ui-state-hover {
 }
 
 .nurse-practice .nurse-detail h6 span {
-    font-family: "latolight";
+    font-family: "Montserrat", sans-serif;
+    
 }
 
 .nurse-practice .nurse-detail p {
@@ -3719,7 +3721,7 @@ td .ui-state-hover {
 }
 
 .medlife-clinic-num .section-title h2 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     text-transform: capitalize;
     color: #fff;
@@ -3738,7 +3740,7 @@ td .ui-state-hover {
     color: #fff;
     font-size: 60px;
     line-height: 60px;
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
 }
 
 .medlife-clinic-num h6 {
@@ -3928,7 +3930,7 @@ td .ui-state-hover {
 }
 
 .blog-lists .blog-post .blog-detail a {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-size: 26px;
     line-height: 26px;
     color: #000;
@@ -4192,7 +4194,7 @@ td .ui-state-hover {
 }
 
 .shop-pg .section-title h1 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif; 
     font-size: 36px;
     line-height: 36px;
     color: #535353;
@@ -4284,7 +4286,7 @@ td .ui-state-hover {
 }
 
 .shop-products-list .product-block a .product-detail h6 {
-    font-family: "latoregular";
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 24px;
@@ -4301,7 +4303,7 @@ td .ui-state-hover {
 }
 
 .shop-products-list .product-block a .product-detail span {
-    font-family: "OpenSansRegular", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     line-height: 18px;
     color: #535353;
@@ -4430,7 +4432,7 @@ td .ui-state-hover {
 }
 
 .shop-product-pg .related-products .section-title h5 {
-    font-family: "OpenSansRegular";
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     color: #000000;
     font-size: 26px;
@@ -4472,7 +4474,7 @@ td .ui-state-hover {
 }
 
 .shop-product-pg .product-items-detail h4 {
-    font-family: "latobold", cursive;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     color: #000000;
     font-size: 30px;
@@ -4542,7 +4544,7 @@ td .ui-state-hover {
 }
 
 .shop-product-pg .nav-tabs > li > a {
-    font-family: "OpenSansRegular", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     color: #000000;
@@ -4584,7 +4586,7 @@ td .ui-state-hover {
 /*============= Shop Cart Page Start =============*/
 /*==================================================================*/
 .shop-cart-pg .return-shop-btn .btn {
-    font-family: "OpenSansRegular", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     margin-top: 15px;
     font-weight: 700;
     background: none;
@@ -4810,7 +4812,7 @@ td .ui-state-hover {
 
 .shop-cart-pg table.cart-table td.actions .update-cart .btn-default {
     letter-spacing: 0;
-    font-family: "OpenSansRegular";
+    font-family: "Montserrat", sans-serif;
 }
 
 .shop-cart-pg
@@ -4886,7 +4888,7 @@ td .ui-state-hover {
     width: 100%;
     color: #fff;
     text-transform: uppercase;
-    font-family: "OpenSansBold";
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     line-height: 18px;
     text-align: center;
